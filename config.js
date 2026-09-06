@@ -1,10 +1,10 @@
-
 /*
-  PORTAL DOS OBREIROS — LINKS
-  Troque somente os endereços abaixo.
+  PORTAL DOS OBREIROS — LINKS OFICIAIS
+  Ministério Redenção
 */
+
 const LINKS = {
-  gerenciar: 'COLE_AQUI_LINK_DO_APPS_SCRIPT',
-  escala: 'COLE_AQUI_LINK_DA_PAGINA_DA_ESCALA',
-  grupo: 'COLE_AQUI_LINK_DO_GRUPO_WHATSAPP'
+  gerenciar: 'https://script.google.com/macros/s/AKfycbzCeS3c1rNcFhgF-YwEu09TqQOmA7oDAkq0w6m9rh-yzYweUPa0oXxIceFxoiN1gfvi/exec',
+  escala: 'https://ministerioredencao.github.io/escalaobreiros/',
+  grupo: 'https://chat.whatsapp.com/G4j22QdtEbU03C2Ns7dFE2?s=cl&p=i&mlu=4&ilr=4'
 };
